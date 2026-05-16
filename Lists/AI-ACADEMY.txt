@@ -17,6 +17,7 @@
 #module 2
 (\.|^)autodraw.com
 (\.|^)thispersondoesnotexsist.com
+(\.|^)arthurfindelair.com
 (\.|^)pokecut.com
 (\.|^)craiyon.com
 (\.|^)metademolab.com
@@ -35,3 +36,16 @@
 (\.|^)mit.edu
 (\.|^)p5js.org
 (\.|^)padlet.com
+
+#module 4
+(\.|^)zapier.app
+(\.|^)cookaifood.com
+(\.|^)mindtrip.ai
+(\.|^)googleapis.com
+(\.|^)clearly.ca
+(\.|^)warbyparker.com
+(\.|^)scroobly.com
+(\.|^)brickit.app
+(\.|^)archive.google
+(\.|^)machinelearningforkids.co.uk
+(\.|^)samlabs.com
