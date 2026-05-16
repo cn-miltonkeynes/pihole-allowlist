@@ -3,7 +3,7 @@ acadmies.codeninjas.com
 #module 1
 quickdraw.withgoogle.com
 www.cleverbot.com
-neal.fun/infinite-craft
+neal.fun
 codecombat.com
 chatgpt.com
 experiments.withgoogle.com
@@ -15,24 +15,20 @@ form.typeform.com
 images.google.com
 teachablemachine.withgoogle.com
 arena.ai
-artsandculture.google.com
 walzr.com
 kids.britannica.com
 kids.nationalgeographic.com
 
 #module 2
 www.autodraw.com
-quickdraw.withgoogle.com
 translate.google.com
 thispersondoesnotexist.com
-www.arthurfindelair.com/thisnightskydoesnotexist
+www.arthurfindelair.com
 poloclub.github.io
 www.pokecut.com
 www.craiyon.com
-poloclub.github.io
 sketch.metademolab.com
 flipanim.com
-sketch.metademolab.com
 google-research.github.io
 www.google.com
 creativecommons.org
@@ -43,36 +39,27 @@ www.canva.com
 #module 3
 textfx.withgoogle.com
 www.grammarly.com
-www.grammarly.com
-www.grammarly.com
 storygpt.vercel.app
-www.grammarly.com
 opengameart.org
 search.creativecommons.org
-www.grammarly.com
 www.veed.io
 app.bookcreator.com
 scratch.mit.edu
 editor.p5js.org
-editor.p5js.org
 sites.google.com
-padlet.com/
+padlet.com
 
 #module 4
 entertainment-hub.zapier.app
-artsandculture.google.com/
-cookaifood.com
 artsandculture.google.com
+cookaifood.com
 mindtrip.ai
-storage.googleapis.com
 storage.googleapis.com
 shadowart.withgoogle.com
 www.clearly.ca
 www.warbyparker
 www.scroobly.com
 lab.scratch.mit.edu
-neal.fun
-experiments.withgoogle.com
 classes.brickit.app
 archive.google
 notebooklm.google.com
