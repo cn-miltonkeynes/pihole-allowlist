@@ -1,0 +1,37 @@
+#module 1
+(\.|^)withgoogle.com
+(\.|^)cleverbot.com
+(\.|^)neal.fun
+(\.|^)codecombat.com
+(\.|^)chatgpt.com
+(\.|^)20q.net
+(\.|^)google.com
+(\.|^)youtube.com
+(\.|^)github.io
+(\.|^)typeform.com
+(\.|^)arena.ai
+(\.|^)walzr.com
+(\.|^)britannica.com
+(\.|^)nationalgeographic.com
+
+#module 2
+(\.|^)autodraw.com
+(\.|^)thispersondoesnotexsist.com
+(\.|^)pokecut.com
+(\.|^)craiyon.com
+(\.|^)metademolab.com
+(\.|^)flipanim.com
+(\.|^)creativecommons.org
+(\.|^)labs.google
+(\.|^)pixilart.com
+(\.|^)canva.com
+
+#module 3
+(\.|^)grammarly.com
+(\.|^)vercel.app
+(\.|^)opengameart.org
+(\.|^)veed.io
+(\.|^)bookcreator.com
+(\.|^)mit.edu
+(\.|^)p5js.org
+(\.|^)padlet.com
